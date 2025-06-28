@@ -1,4 +1,3 @@
-
 # 💼 Microsoft Fabric Sales Analysis Pipeline  
 **End-to-End Lakehouse Project | Azure-Native | Power BI-Ready**
 
